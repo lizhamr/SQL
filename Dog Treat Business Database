@@ -1,3 +1,5 @@
+# For this project I created a Dog Treat Companies Product Database & analyzed some basic data. 
+
 CREATE TABLE DOGTREATS (ID INTEGER PRIMARY KEY, FLAVOR TEXT, PRICE INTEGER, MARKET TEXT, BAKETIME TEXT);
 
 
